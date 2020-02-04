@@ -1,0 +1,1 @@
+Informacion del CPU: [{"model":"AMD Phenom(tm) II X2 555 Processor","speed":3520,"times":{"user":1367140,"nice":0,"sys":1049562,"idle":3835468,"irq":55968}},{"model":"AMD Phenom(tm) II X2 555 Processor","speed":3520,"times":{"user":1420937,"nice":0,"sys":771921,"idle":4059125,"irq":13109}}]
