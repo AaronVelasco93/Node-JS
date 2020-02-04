@@ -20,10 +20,15 @@ fs.appendFile('Mi_archivo.txt',`Informacion del CPU: ${cpu_string}`,function(err
 //---------
 //importacion de valores
 
+
 const mi = require('./importar.js');
-console.log('\nUn numero: ',mi.test_numeros);
-
+console.log('\nUn numero: ', mi.numero);
+/*
 mi.saludar;
+mi.saludar2;
+mi.saludando();
+*/
 
-mi.saludar2();
+let respuesta = mi.sumar (10,5); 
 
+console.log (respuesta);
