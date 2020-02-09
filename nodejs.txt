@@ -1,0 +1,31 @@
+#Version de NodeJs
+	node -v
+
+#requerido npm (es un gestor de paquetes de NodeJS)
+	npm -v 
+
+#actulizar npm 
+	npm install -g npm	
+## importante
+##agregar variables de entono
+
+#Hola mundo en node
+	node
+	console.log('Hola mundo');
+
+
+
+
+Correcto
+npm -v
+//actulizar mpn 
+	npm install -g npm
+
+npm init
+
+// depende de las extecion se van agregando
+//lodash
+npm install lodash --save
+
+//expres
+ npm install express --save
